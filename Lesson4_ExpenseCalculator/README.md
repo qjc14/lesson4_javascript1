@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Quinn and Ciambella)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I attempted to create a monthly expense calculator, but the results do not appear when I try to test it out, when the instructor shows me how to fix this I will come back and fix this:).)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://qjc14.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The basics of javascript.)
+2. (How to create interactable buttons on javascript.)
+3. (In class, learned how the \' command works and i found that quite interesting.)
